@@ -1,9 +1,9 @@
 {
   "name": "CocoapodKBDemo",
   "version": "0.1.0",
-  "summary": "A short description of CocoapodKBDemo.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/HUANDU153666/CocoapodKBDemo",
+  "summary": "kaba pod test",
+  "description": "CocoapodKBDemo 是一个用于保存常用工具类的工具",
+  "homepage": "https://github.com/HUANDU153666/KBDemo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -18,5 +18,21 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "CocoapodKBDemo/Classes/**/*"
+  "source_files": "CocoapodKBDemo/Classes/**/*.{h,m,mm}",
+  "requires_arc": true,
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "dependencies": {
+    "YTKNetwork": [
+
+    ],
+    "MJExtension": [
+
+    ],
+    "CTMediator": [
+
+    ]
+  }
 }
