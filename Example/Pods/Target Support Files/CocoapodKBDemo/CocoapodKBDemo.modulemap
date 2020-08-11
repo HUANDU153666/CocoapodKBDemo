@@ -1,0 +1,6 @@
+framework module CocoapodKBDemo {
+  umbrella header "CocoapodKBDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

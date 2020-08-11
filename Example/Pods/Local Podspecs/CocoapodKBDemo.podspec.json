@@ -1,0 +1,22 @@
+{
+  "name": "CocoapodKBDemo",
+  "version": "0.1.0",
+  "summary": "A short description of CocoapodKBDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HUANDU153666/CocoapodKBDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HUANDU153666": "HUAN153666@163.com"
+  },
+  "source": {
+    "git": "https://github.com/HUANDU153666/CocoapodKBDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CocoapodKBDemo/Classes/**/*"
+}

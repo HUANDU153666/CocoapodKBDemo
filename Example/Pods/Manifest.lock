@@ -1,0 +1,27 @@
+PODS:
+  - CocoapodKBDemo (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CocoapodKBDemo (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CocoapodKBDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoapodKBDemo: 075b38de823cf3470fdace5ee3649cd7b43668da
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 8bcafb9fb05bfeb506c395659b0f826c7787e102
+
+COCOAPODS: 1.8.4
